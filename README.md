@@ -31,7 +31,7 @@ Make Step Laravel Project
 
 3. modify database configuration
 
-   Overwrite `project-name/.env`
+   Overwrite `laravel5/.env`
 
    ```
    DB_HOST=mysql
